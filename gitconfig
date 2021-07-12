@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lucasvasco@hotmail.com
+	name = lucas vasco
